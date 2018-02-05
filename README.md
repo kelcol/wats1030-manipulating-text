@@ -118,15 +118,25 @@ your text.)
 
 ## Stretch Goals
 
-* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
-* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
+* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).    
+
+`emacs-tetris-still.png`
 
 ------
-Vi: 
-`:set number` (type in console or add to .vimrc file)
-Emacs: 
-`M-x linum-mode` (temporary; type in console)```
-`(global-linum-mode t)` (permanent; add to .emacs file)
-* Explore the Emacs file browser mode. Describe how it works here.
-`C-x d` invokes Dired, which makes a read-only buffer listing contents of a directory. This buffer can be navigated and operated on using normal Emacs commands as well as special Dired commands.
+* How do you turn on line numbering in Vi? Emacs?
+
+#### Vi
+
+`:set number` (type in console or add to .vimrc file w/o colon)    
+
+#### Emacs
+
+`M-x linum-mode` (temporary; type in console)    
+`(global-linum-mode t)` (permanent; add to .emacs file)    
+
+------
+
+* Explore the Emacs file browser mode. Describe how it works here.    
+
+`C-x d` invokes Dired, which makes a read-only buffer listing contents of directory and optionally sub-directories. This buffer can be navigated and operated on using normal Emacs commands as well as special Dired commands.
 
