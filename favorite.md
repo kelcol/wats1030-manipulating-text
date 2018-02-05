@@ -1,0 +1,3 @@
+# Emacs Wins!
+
+I had much more fun with *Emacs* this week than expected. Firing up Nano will probably be a more automatic choice in some situations and I can appreciate why many take to Vi, but of the three *Emacs* might be my favorite. While I really struggled to do even the very basics with it, I'm in awe of what I perceive to be its potential for expert users enough to want to spend more time getting comfortable with it. I especially liked working with the GUI version and am most looking forward to learning how to use macros, exploring what packages are available, and researching how other users customize their *Emacs* getup.
